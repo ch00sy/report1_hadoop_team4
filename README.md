@@ -5,3 +5,8 @@ homework of hadoop installation_team4
 ...
 크게 보실 수 있습니다
 ...
+
+# step 10. 더이상 변경은 없다
+```
+이게 마지막 ???
+```
